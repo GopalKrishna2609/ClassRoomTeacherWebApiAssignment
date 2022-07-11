@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassTeacherAPIProject", "ClassTeacherAPIProject\ClassTeacherAPIProject.csproj", "{472B2950-D949-405B-998D-53F49365922E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDbLayerCT", "APIDbLayerCT\APIDbLayerCT.csproj", "{8F08D089-E437-4851-86C4-B2E4947015E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472B2950-D949-405B-998D-53F49365922E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472B2950-D949-405B-998D-53F49365922E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472B2950-D949-405B-998D-53F49365922E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472B2950-D949-405B-998D-53F49365922E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F08D089-E437-4851-86C4-B2E4947015E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F08D089-E437-4851-86C4-B2E4947015E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F08D089-E437-4851-86C4-B2E4947015E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F08D089-E437-4851-86C4-B2E4947015E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B460E2-7F2C-40C8-920F-C32B426FCE8A}
+	EndGlobalSection
+EndGlobal
